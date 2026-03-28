@@ -1,0 +1,14 @@
+esptool --port COM7 erase_flash
+esptool.py --port COM7 erase_flash
+D:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin
+C:\Users\Administrator\AppData\Local\Programs\Python\Python311\
+
+C:\Users\Administrator\AppData\Local\Programs\Python\Python311\
+C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\
+
+；C:\Windows\System32
+
+C:\Python34\Script
+
+c:\users\administrator\appdata\local\programs\python\python311\lib\site-packa
+c:\users\administrator\appdata\local\programs\python311\lib\site
