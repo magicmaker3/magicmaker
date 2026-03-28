@@ -1,2 +1,0 @@
-https://ultimaker.com/software/ultimaker-cura/
-IOS 只能用最新版，配置用5.2的，方法一样
